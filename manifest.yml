@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: iERPTestMgmt
-  host: iERPTestMgmt
+  name: iERPT-vinoth
+  host: iERPT-vinoth
   disk_quota: 1024M
