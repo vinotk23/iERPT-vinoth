@@ -1,5 +1,5 @@
 applications:
-- path: target/iERPTestMgmt.war
+- path: target/iERPT-vinoth.war
   memory: 512M
   instances: 1
   domain: mybluemix.net
